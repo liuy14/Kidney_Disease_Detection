@@ -1,0 +1,39 @@
+\BOOKMARK [1][-]{section.1}{Kidney Disease Detection}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Library}{section.1}% 2
+\BOOKMARK [1][-]{section.2}{\134rm I. Data Preparation}{}% 3
+\BOOKMARK [2][-]{subsection.2.1}{Load Data}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.2}{Exporatory Data Analysis}{section.2}% 5
+\BOOKMARK [1][-]{section.3}{\134rm II. Sklearn Imputer and Pandas Get Dummies Approach}{}% 6
+\BOOKMARK [2][-]{subsection.3.1}{Imputing Data}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.2}{Get dummies}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.3}{Cross Validation}{section.3}% 9
+\BOOKMARK [2][-]{subsection.3.4}{Fit Model}{section.3}% 10
+\BOOKMARK [2][-]{subsection.3.5}{ROC AUC Curve}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.6}{Feature Importance}{section.3}% 12
+\BOOKMARK [1][-]{section.4}{\134rm III. Pipeline: Sklearn Imputer Approach Pandas Get Dummies}{}% 13
+\BOOKMARK [2][-]{subsection.4.1}{Selctor: Function Transformer}{section.4}% 14
+\BOOKMARK [2][-]{subsection.4.2}{Imputing: Function Transformer}{section.4}% 15
+\BOOKMARK [2][-]{subsection.4.3}{Numerical Sub-Pipeline}{section.4}% 16
+\BOOKMARK [2][-]{subsection.4.4}{Categorical Sub-Pipeline}{section.4}% 17
+\BOOKMARK [2][-]{subsection.4.5}{FeatureUnion}{section.4}% 18
+\BOOKMARK [2][-]{subsection.4.6}{Classifier}{section.4}% 19
+\BOOKMARK [2][-]{subsection.4.7}{Build Pipeline}{section.4}% 20
+\BOOKMARK [2][-]{subsection.4.8}{Cross Validation Score on Pipeline}{section.4}% 21
+\BOOKMARK [2][-]{subsection.4.9}{Fit Model}{section.4}% 22
+\BOOKMARK [2][-]{subsection.4.10}{ROC AUC Curve}{section.4}% 23
+\BOOKMARK [2][-]{subsection.4.11}{Feature Importance}{section.4}% 24
+\BOOKMARK [1][-]{section.5}{\134rm IV. Sklearn\137pandas package Approach}{}% 25
+\BOOKMARK [2][-]{subsection.5.1}{Creat Boolean Mask}{section.5}% 26
+\BOOKMARK [2][-]{subsection.5.2}{Categorial feature list \046 Numerical feature list}{section.5}% 27
+\BOOKMARK [2][-]{subsection.5.3}{Numerical Imputer: DataFrameMapper}{section.5}% 28
+\BOOKMARK [2][-]{subsection.5.4}{Categorical Imputer: DataFrameMapper}{section.5}% 29
+\BOOKMARK [2][-]{subsection.5.5}{Concatenate X\137num and X\137cat}{section.5}% 30
+\BOOKMARK [2][-]{subsection.5.6}{DictVectorizer}{section.5}% 31
+\BOOKMARK [2][-]{subsection.5.7}{Cross Validation}{section.5}% 32
+\BOOKMARK [2][-]{subsection.5.8}{Fit Model}{section.5}% 33
+\BOOKMARK [2][-]{subsection.5.9}{ROC AUC Curve}{section.5}% 34
+\BOOKMARK [2][-]{subsection.5.10}{Feature Importance}{section.5}% 35
+\BOOKMARK [1][-]{section.6}{\134rm IV. Pipeline: Sklearn\137pandas Approach}{}% 36
+\BOOKMARK [2][-]{subsection.6.1}{Fit Model}{section.6}% 37
+\BOOKMARK [2][-]{subsection.6.2}{ROC AUC Curve}{section.6}% 38
+\BOOKMARK [2][-]{subsection.6.3}{Feature Importance}{section.6}% 39
